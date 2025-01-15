@@ -23,13 +23,13 @@ Welcome to my GitHub profile! I'm a passionate developer and educator who loves 
 - Detailed explanations and how-tos for programming concepts.
 
 ### 🔧 Code Snippet
-Here's a logic snippet showcasing conditional operations:
+Here's a logic snippet showcasing advice for the life of software engineering people:
 ```python
 if self.today > self.yesterday:
-    # If today's value is greater than yesterday's, continue processing.
+    # If today's progress is better than yesterday's, keep pushing forward.
     continue
 else:
-    # Break the loop if today's value is not greater.
+    # Take a moment to reflect and plan if you're not making progress.
     break
 ```
 
