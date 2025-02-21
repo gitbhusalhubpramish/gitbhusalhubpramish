@@ -1,3 +1,23 @@
+# 💫 About Me:
+# 👋 Hi, I'm Pramish Bhusal!
+<br><br>Welcome to my GitHub profile! I'm a passionate developer and educator who loves coding, creating projects, and sharing knowledge with the community.<br><br>
+
+## 💻 Interests
+- Programming and software development
+- Machine learning and neural networks
+- Hardware integration <br><br>
+### 🔧 Code Snippet<br>Here's a logic snippet showcasing advice for the life of software engineering people:
+```python
+if self.today > self.yesterday:
+  # If today's progress is better than yesterday's, keep pushing forward.
+  continue
+else:
+   # Take a moment to reflect and plan if you're not making progress.
+   break
+```
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prit.py) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pramish-bhusal-a68a05351) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pramishbhusal7694) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bpramish71@gmail.com) 
 
@@ -13,6 +33,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📖 Favorite Quote
+<br>"Code is like humor. When you have to explain it, it’s bad."
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gitbhusalhubpramish&limit=5&theme=dark&combine_all_yearly_contributions=true)
