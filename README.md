@@ -2,6 +2,8 @@
 # 👋 Hi, I'm Pramish Bhusal!
 <br><br>Welcome to my GitHub profile! I'm a passionate developer and educator who loves coding, creating projects, and sharing knowledge with the community.<br><br>
 
+![](https://komarev.com/ghpvc/?username=gitbhusalhubpramish&color=green)
+
 ## 💻 Interests
 - Programming and software development
 - Machine learning and neural networks
