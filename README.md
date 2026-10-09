@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Pramish Bhusal!
 <br><br>Welcome to my GitHub profile! I'm a passionate developer and educator who loves coding, creating projects, and sharing knowledge with the community.<br><br>
 
