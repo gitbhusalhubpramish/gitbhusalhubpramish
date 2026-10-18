@@ -6,7 +6,7 @@
 ## 💻 Interests
 - Programming and software development
 - Machine learning and neural networks
-- Hardware integration <br><br>
+- Hardware integration. <br><br>
 ### 🔧 Code Snippet<br>Here's a logic snippet showcasing advice for the life of software engineering people:
 ```python
 if self.today > self.yesterday:
