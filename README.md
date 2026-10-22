@@ -9,6 +9,7 @@
 - Hardware integration
 -  <br><br>
 ### 🔧 Code Snippet<br>Here's a logic snippet showcasing advice for the life of software engineering people:
+
 ```python
 if self.today > self.yesterday:
   # If today's progress is better than yesterday's, keep pushing forward.
